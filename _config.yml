@@ -1,6 +1,6 @@
 name: hakangulgonul
 favicon: null
-layout_spectrum: 0.32623622147366405
+layout_spectrum: 0
 typography_spectrum: 0.2035074015147984
 title: Hakan
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.31141142756678164
+    - '#ffffff'
+    - '#030301'
+    - '#c1c1bf'
+    - '#2f2f33'
+    - '#82837d'
+  brandStrength: 0.5
   lightness: 0.6226398502476513
-  saturation: 0.19269783981144428
-  rhythmicContrast: 0.33573111868463457
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
