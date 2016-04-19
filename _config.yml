@@ -1,6 +1,6 @@
 name: 'Hakan Gulgonul '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.23887
 typography_spectrum: 0.2035074015147984
 title: "it's hard to dance with the devil on your back"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#c1c1bf'
     - '#2f2f33'
     - '#82837d'
-  brandStrength: 1
-  lightness: 0.6226398502476513
+  brandStrength: 0.5
+  lightness: 0.6875
   saturation: 0.5
-  rhythmicContrast: 0.5
+  rhythmicContrast: 1
 purpose: []
