@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-19T11:20:14.127Z'
-dateModified: '2016-04-19T11:20:11.311Z'
+datePublished: '2016-05-31T18:07:49.540Z'
+dateModified: '2016-05-31T18:07:48.994Z'
 title: 'Couple of images in one post '
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-04-19-couple-of-images-in-one-post.md
-published: true
+authors: []
+publisher: null
+starred: true
 url: couple-of-images-in-one-post/index.html
 _type: Article
 
