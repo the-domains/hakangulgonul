@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Hakan Gulgonul ]]></title>
         <description><![CDATA[Hakan Gulgonul ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hakangulgonul/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 01 Jun 2016 08:48:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 01 Jun 2016 08:55:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hakangulgonul/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Speed of Light project kick-off </p>]]></description>
-            <link>undefinedspeed-of-light-project-kick-off/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a212a37-3acb-46c4-8206-1f69e4bed0f5.jpg">]]></description>
+            <link>https://thegrid.ai/hakangulgonul/speed-of-light-project-kick-off/index.html</link>
             <guid isPermaLink="false">41dccdf6-12f6-4995-8213-b8bd48558e39</guid>
-            <pubDate>Wed, 01 Jun 2016 08:48:51 GMT</pubDate>
+            <pubDate>Wed, 01 Jun 2016 08:54:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
